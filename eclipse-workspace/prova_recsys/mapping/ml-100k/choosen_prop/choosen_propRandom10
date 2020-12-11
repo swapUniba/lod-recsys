@@ -1,0 +1,10 @@
+http://dbpedia.org/ontology/starring
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://dbpedia.org/ontology/wikiPageExternalLink
+http://dbpedia.org/property/gross
+http://dbpedia.org/property/studio
+http://dbpedia.org/property/recorded
+http://www.w3.org/ns/prov#wasDerivedFrom
+http://purl.org/dc/terms/subject
+http://dbpedia.org/ontology/producer
+http://dbpedia.org/property/wordnet_type

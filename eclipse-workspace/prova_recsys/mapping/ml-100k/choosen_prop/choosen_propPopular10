@@ -1,0 +1,10 @@
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://purl.org/dc/terms/subject
+http://www.w3.org/2002/07/owl#sameAs
+http://dbpedia.org/property/starring
+http://dbpedia.org/ontology/starring
+http://dbpedia.org/property/producer
+http://dbpedia.org/property/title
+http://dbpedia.org/property/writer
+http://dbpedia.org/property/country
+http://dbpedia.org/property/language
